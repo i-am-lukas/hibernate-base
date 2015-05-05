@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Hibernate and MySql">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../hibernate-release-4.3.8.Final/lib/required" />
+      <root url="jar://$PROJECT_DIR$/../../mysql-connector-java-5.1.35/mysql-connector-java-5.1.35-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../hibernate-release-4.3.8.Final/lib/required" recursive="false" />
+  </library>
+</component>
